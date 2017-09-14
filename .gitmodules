@@ -1,3 +1,18 @@
 [submodule "kubernetes_tutorials"]
 	path = kubernetes_tutorials
 	url = git@github.com:walteraa/kubernetes_tutorials.git
+[submodule "exposing-k8s-svc"]
+	path = exposing-k8s-svc
+	url = https://github.com/arthur0/exposing-k8s-svc
+[submodule "k8s-onpremise-federation"]
+	path = k8s-onpremise-federation
+	url = https://github.com/ufcg-lsd/k8s-onpremise-federation
+[submodule "hybrid-k8s-federation"]
+	path = hybrid-k8s-federation
+	url = https://github.com/henriquetruta/hybrid-k8s-federation
+[submodule "kubernetes-tutorials"]
+	path = kubernetes-tutorials
+	url = https://github.com/henriquetruta/kubernetes-tutorials
+[submodule "hybrid_federated_ingress_k8s"]
+	path = hybrid_federated_ingress_k8s
+	url = https://github.com/henriquetruta/hybrid_federated_ingress_k8s
