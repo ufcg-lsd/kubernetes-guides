@@ -1,0 +1,3 @@
+[submodule "kubernetes_tutorials"]
+	path = kubernetes_tutorials
+	url = git@github.com:walteraa/kubernetes_tutorials.git
